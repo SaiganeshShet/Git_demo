@@ -1,3 +1,4 @@
-
 print("Hello, Git!")
-print("I am learning version control.")
+
+name = input("Enter your name: ")
+print("Welcome", name)
