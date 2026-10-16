@@ -1,0 +1,12 @@
+[1mdiff --git a/hello.py b/hello.py[m
+[1mindex 7f00c23..c467c91 100644[m
+[1m--- a/hello.py[m
+[1m+++ b/hello.py[m
+[36m@@ -1,3 +1,4 @@[m
+[31m-[m
+ print("Hello, Git!")[m
+[31m-print("I am learning version control.")[m
+[32m+[m
+[32m+[m[32mname = input("Enter your name: ")[m
+[32m+[m[32mprint("Welcome", name)[m
+\ No newline at end of file[m
